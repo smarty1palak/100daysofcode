@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+#link1{
+	 background-color: #8B0000;
+	 color: #000000;
+	 text-align: center;
+}
+i{
+	color: #FFFFFF;
+}
+.jumbotron{
+	 background-color: #8B0000;
+}
+q{
+	 text-shadow: #FFFFFF;
+	 color: 		#000000;	
+	 font-style: italic;
+	 line-height: 1.6;
+}
+h1{
+	font-size: 70px ;
+	line-height: 1.6;
+	color: #F0FFFF;
+	text-align: center;
+
+}
+#info1{
+	background-color: #8B0000;
+}
+#info2{
+	background-color: #8B0000;
+}
+#text1{
+	color: #FFFFFF;
+}
+#text2{
+	color: #FFFFFF;
+}
+#information{
+	 background-color: #8B0000;
+}
+#author{
+	color: #F0FFFF;
+}
